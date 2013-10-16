@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, nikeplus!</string>
+    <string name="app_name">nikePlus</string>
+    <string name="nikeRunFeed">http://nikerunning.nike.com/nikeplus/v1/services/widget/get_public_run_list.jsp?userID=</string>
+    <string name="nikeID">605949597</string>
+</resources>
